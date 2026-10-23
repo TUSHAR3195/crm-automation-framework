@@ -71,5 +71,7 @@ public class ContactTest extends BaseClass {
 
 		// Validate that the contact is created with correct Last Name
 		Assert.assertEquals(actLastName, lastName, "Contact creation failed: Last Name mismatch");
+		
+		System.out.println("Test script completed...");
 	}
 }

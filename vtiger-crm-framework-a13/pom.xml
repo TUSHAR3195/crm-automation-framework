@@ -9,11 +9,6 @@
 
 	<dependencies>
 
-		<dependency>
-			<groupId>org.automationwithpiyush</groupId>
-			<artifactId>MavenJenkinsA13</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
